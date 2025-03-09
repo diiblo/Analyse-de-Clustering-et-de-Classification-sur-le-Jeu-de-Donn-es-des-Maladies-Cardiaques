@@ -21,7 +21,7 @@ Une **analyse comparative** permet d’évaluer l’efficacité de ces modèles.
 ---
 
 ## 📂 **Structure du Projet**  
-📜 **Devoir.md** → Rapport détaillé du projet  
+📜 **sujet/** → Travail à faire  
 📊 **data/** → Jeu de données utilisé  
 💻 **notebooks/** → Code des différentes analyses 
 
@@ -30,7 +30,7 @@ Une **analyse comparative** permet d’évaluer l’efficacité de ces modèles.
 ## 📥 **Utilisation**  
 1. **Cloner le projet**  
    ```bash
-   git clone https://github.com/ton-github/nom-du-projet.git
+   git clone https://github.com/diiblo/Analyse-de-Clustering-et-de-Classification-sur-le-Jeu-de-Donn-es-des-Maladies-Cardiaques.git
    cd nom-du-projet
    ```
 2. **Ouvrir le notebook**  
@@ -46,7 +46,7 @@ Une **analyse comparative** permet d’évaluer l’efficacité de ces modèles.
 ---
 
 ## 🏆 **Auteurs**  
-👤 **[King Rahman Moctarr Basiru]**  
-👨‍🏫 **[PhD Nisrine ZOUGAGH]**  
+👤 **King Rahman Moctarr Basiru**  
+👨‍🏫 **PhD Nisrine ZOUGAGH**  
 
 📌 **Projet réalisé dans le cadre du cours Visualisation de données**  
