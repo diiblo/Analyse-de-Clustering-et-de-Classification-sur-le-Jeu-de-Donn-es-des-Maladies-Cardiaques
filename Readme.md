@@ -1,8 +1,3 @@
-D'accord ! Voici une version **simplifiée et adaptée** de ton `README.md` qui correspond à ton projet :  
-
----
-
-```md
 # 🏥 Analyse de Clustering et de Classification sur les Maladies Cardiaques  
 
 ## 📌 Description  
